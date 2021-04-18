@@ -2,11 +2,7 @@
 
 ## Hello World, I'm Breno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
----
-
 ## About me
-
----
 
 - 💻 Currently working with ReactJS, NextJS, TypeScript and SASS
 - 👨‍💻 Front-end Developer at <a href="https://waydatasolution.com.br/">Way Data Solution</a>
@@ -14,8 +10,6 @@
 - 🎨 Fascinated with UI Design
 
 ## Tools
-
----
 
 <div>
     <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="16px" title="figma">&ensp;&ensp;
@@ -31,8 +25,6 @@
 </div>
 
 ## Connect with me
-
----
 
 <a href="https://linkedin.com/in/breno-hasparyk"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:breno.ha@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
