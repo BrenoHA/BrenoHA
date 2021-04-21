@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="public/Saly-13.png">
+<img align="right" width="350" height="350" src="public/Saly-13.png">
 
 ## Hello World, I'm Breno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
