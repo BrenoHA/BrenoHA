@@ -14,7 +14,6 @@
     <img src="https://img.icons8.com/color/30/000000/typescript.png" title="typescript"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/javascript.png" title="javascript"/>&ensp;&ensp;
     <img src="https://img.icons8.com/plasticine/30/000000/react.png" title="react"/>&ensp;&ensp;
-    <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="25px" title="html5">&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/css3.png" title="css3"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/bootstrap.png" title="bootstrap"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/sass.png" title="sass"/>&ensp;&ensp;
