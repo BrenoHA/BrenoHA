@@ -4,7 +4,7 @@
 
 ## About me
 - 👨‍💻 Front-end Developer 
-- 📘 Ingénieur Généraliste at <a href="https://www.ufg.br/">IMT Atlantique</a>
+- 📘 Ingénieur informatique à <a href="https://www.ufg.br/">IMT Atlantique</a>
 - 📗 Computer Engineering Student at <a href="https://www.ufg.br/">UFG</a>
 - 🎨 Fascinated with UI Design
 
