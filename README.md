@@ -10,7 +10,7 @@
 
 ## Tools
 <div>
-    <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="16px" title="figma">&ensp;&ensp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="16px" title="figma">&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/typescript.png" title="typescript"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/javascript.png" title="javascript"/>&ensp;&ensp;
     <img src="https://img.icons8.com/plasticine/30/000000/react.png" title="react"/>&ensp;&ensp;
