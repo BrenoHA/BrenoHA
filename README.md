@@ -3,10 +3,10 @@
 ## Hello World, I'm Breno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ## About me
-- 👨‍💻 Front-end Developer 
+- 👨‍💻 Front-end Developer at <a href="https://altair.com/">Altair</a>
 - 📘 Ingénieur informatique à <a href="https://www.imt-atlantique.fr/fr">IMT Atlantique</a>
-- 📗 Computer Engineering Student at <a href="https://www.ufg.br/">UFG</a>
-- 🎨 Fascinated with UI Design
+- 📗 Computer Engineering at <a href="https://www.ufg.br/">UFG</a>
+- 🎨 Fascinated with UI/UX Design
 
 ## Tools
 <div>
