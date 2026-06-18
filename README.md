@@ -1,26 +1,45 @@
-<img align="right" width="350" height="350" src="public/Saly-13.png">
+<div align="center">
 
-## Hello World, I'm Breno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
-## About me
-- 👨‍💻 Front-end Developer 
-- 📘 Ingénieur informatique à <a href="https://www.imt-atlantique.fr/fr">IMT Atlantique</a>
-- 📗 Computer Engineering Student at <a href="https://www.ufg.br/">UFG</a>
-- 🎨 Fascinated with UI Design
-
-## Tools
-<div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="16px" title="figma">&ensp;&ensp;
-    <img src="https://img.icons8.com/color/30/000000/typescript.png" title="typescript"/>&ensp;&ensp;
-    <img src="https://img.icons8.com/color/30/000000/javascript.png" title="javascript"/>&ensp;&ensp;
-    <img src="https://img.icons8.com/plasticine/30/000000/react.png" title="react"/>&ensp;&ensp;
-    <img src="https://img.icons8.com/color/30/000000/css3.png" title="css3"/>&ensp;&ensp;
-    <img src="https://img.icons8.com/color/30/000000/bootstrap.png" title="bootstrap"/>&ensp;&ensp;
-    <img src="https://img.icons8.com/color/30/000000/sass.png" title="sass"/>&ensp;&ensp;
-    <img src="https://img.icons8.com/color/30/000000/python.png" title="python"/>&ensp;&ensp;
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38F700&center=true&vCenter=true&width=435&lines=Hi!+I'm+Breno+%F0%9F%98%81)](https://git.io/typing-svg)
 
 </div>
 
-## Connect with me
-<a href="https://linkedin.com/in/breno-ha"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:breno.ha@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
+## About me
+
+Software Engineer at [**Siemens**](https://siemens.com/), frontend-focused with a strong interest in AI development.
+
+With 7+ years of coding experience, I like building things that are clean, and useful (from the logic to the pixels).
+
+- 🎓 Master's in Data Science: [IMT Atlantique](https://www.imt-atlantique.fr/en)
+- 🎓 Bachelor's in Computer Engineering: [UFG](https://www.ufg.br/)
+- 🇧🇷 Currently based in Brazil, full remote
+- 🎨 UI/UX Figma: Good interfaces don't need instructions.
+- 🌐 Languages (fluent): Portuguese, English, French & Spanish
+
+On the side, I apply my data science background to build AI-driven projects with LangChain and Python.
+
+---
+
+## Stack
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,css,sass,vite,figma&theme=dark&perline=9)](https://skillicons.dev)
+
+**Backend**
+
+[![Backend](https://skillicons.dev/icons?i=python,fastapi,nodejs,go,postgres,redis&theme=dark&perline=6)](https://skillicons.dev)
+
+**Cloud & DevOps**
+
+[![DevOps](https://skillicons.dev/icons?i=docker,aws,gcp,linux,git&theme=dark&perline=6)](https://skillicons.dev)
+
+---
+
+## Connect
+
+I'm happy to chat/connect here. Find me on LinkedIn or drop me an email.
+
+<a href="https://linkedin.com/in/breno-ha"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat-square&logo=linkedin&logoColor=0077B5&labelColor=white"/></a>
+
+<a href="mailto:breno.ha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=gmail&logoColor=D14836&labelColor=white"/></a>
